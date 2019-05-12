@@ -1,2 +1,3 @@
-# vue-web-template
-Template for quickly building Vue apps
+# Vue Starter Template
+A personal starter template to bootstrap minimal Vue apps.
+Startup scripts can be found in `package.json`.
